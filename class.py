@@ -15,3 +15,6 @@ p1.saluta()
 # Ciao, mi chiamo Marco e ho 32 anni.
 # Ciao, mi chiamo Marco e ho 99 anni.             stiamo modificando il valore dell'età.
 #---------------------------------------------------------------------------------
+
+
+'''STO PROVANDO:   git remote add origin https://github.com/Marco-Negro/CLASS.prova.git'''
